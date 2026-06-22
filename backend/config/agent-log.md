@@ -26,3 +26,47 @@ Build a Kanban Board using React and Laravel.
 ## Final Result
 
 Working Kanban board application with deployed frontend and local backend.
+## Example Agent Workflow
+
+Human:
+Build a Kanban Board using Laravel and React.
+
+Hermes:
+Plan:
+
+1. Create backend
+2. Create database
+3. Create frontend
+4. Connect API
+5. Deploy frontend
+
+OpenClaw:
+Implemented Laravel models and migrations.
+
+OpenClaw:
+Implemented React frontend.
+
+Human:
+Review API output.
+
+OpenClaw:
+Fixed CORS issue and connected frontend.
+
+Hermes:
+Status Report
+
+What I Did:
+
+* Backend setup
+* Frontend setup
+* API integration
+* Deployment
+
+What's Left:
+
+* Final documentation
+* Submission
+
+What Needs Your Call:
+
+* Submit repository and video.
